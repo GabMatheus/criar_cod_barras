@@ -21,6 +21,10 @@ Esse programa foi criado por mim, Gabriel Matheus. Se você tiver alguma dúvida
 
 O código fonte vai ser anexado em outro arquivo, da para ser compilado direto pelo prompt com apenas o python instalado. O motivo para ter sido criado foi devido a uma demanda de ficar gerando códigos de produtos que não tem em suas embalagens, com isso o pessoal imprime e pode "bipar" no sistema ao invés de ficar digitando manualmente. O código foi melhorado e otimizado com o suporte do chatGPT.
 
+----Trabalhos futuros----
+
+Como projetos futuros, pretendo implementar para que o usuário final escolha o tipo de código de barras que ele deseja gerar, não apenas o Cod128 e talvez colocar para salvar em outros formatos além de docx. 
+
 ----Licença----
 
 Esse programa é de código aberto e pode ser usado e modificado livremente.
