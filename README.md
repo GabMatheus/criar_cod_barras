@@ -7,7 +7,7 @@ Esse programa permite que o usuário gere códigos de barras a partir de número
 
 ----Requisitos----
 
-Para executar o programa, você devera copiar a pasta "gerador_cod_barras" para qualquer diretório que desejar. Recomendo que seja no C: e em seguida encontre \dist\gerador\gerador.exe e este é o executável que você pode clicar com o botão direito e criar um atalho dele na area de trabalho por exemplo.
+Para executar o programa, você devera extrair as pastas para uma outra criada em seu computador, como por exemplo alguma com nome: "gerador_cod_barras" para qualquer diretório que desejar. Recomendo que seja no C: e em seguida encontre \dist\gerador\gerador.exe e este é o executável que você pode clicar com o botão direito e criar um atalho dele na area de trabalho para facilitar a execução.
 
 ----Como Usar----
 
